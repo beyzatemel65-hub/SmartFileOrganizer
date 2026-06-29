@@ -1,0 +1,6 @@
+Smart File Organizer Log
+==============================
+Date: 2026-06-29 17:07:15
+Folder: /Users/beyzatemel/Documents/SmartFileOrganizer/test_files
+Total moved files: 0
+
